@@ -26,6 +26,7 @@ public final class StiglerDiet {
         nutrients.add(new Object[] {"Vitamin C (mg)", 75.0});
 
         List<Object[]> data = new ArrayList<>();
+
         // Unit, 1939 price (cents), Calories (kcal), Protein (g), Calcium (g), Iron (mg), Vitamin A (KIU), Thiamine (mg),
         // Riboflavin (mg), Niacin (mg), Ascorbic Acid (mg)
         data.add(new Object[] {"Wheat Flour (Enriched)", "10 lb.", 36,
