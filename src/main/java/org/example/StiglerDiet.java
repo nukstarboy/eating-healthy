@@ -30,6 +30,7 @@ public final class StiglerDiet {
         // Riboflavin (mg), Niacin (mg), Ascorbic Acid (mg)
         data.add(new Object[] {"Wheat Flour (Enriched)", "10 lb.", 36,
                 new double[] {44.7, 1411, 2, 365, 0, 55.4, 33.3, 441, 0}});
+
         data.add(new Object[] {
                 "Macaroni", "1 lb.", 14.1, new double[] {11.6, 418, 0.7, 54, 0, 3.2, 1.9, 68, 0}});
         data.add(new Object[] {"Wheat Cereal (Enriched)", "28 oz.", 24.2,
